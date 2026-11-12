@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+artifacts/
+docs/media/lifecycle-run.json
+docs/media/*.mp4
+procureflow.sqlite*
+*.sqlite
+*.sqlite-*
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+*.pdf
